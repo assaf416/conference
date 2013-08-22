@@ -1,3 +1,30 @@
 = Conference
 
 This project rocks and uses MIT-LICENSE.
+
+
+
+== Rails Engine to manage online communication between user using 
+  -- Faye for Chat 
+  -- WebRTC/AngularJS for Video conference
+  -- WebRTC/AngularJS for Video conference
+
+
+== Main Features:
+  -- Online Collaboration via Web only tools
+  -- Manage Invitations
+  -- Meeting Notes
+  -- Whiteboard and Advanced Video UI 
+
+
+== White board Activites
+  -- clear 
+  -- show my camera
+  -- share file | link | sound | video url
+  -- store
+
+== Meeting management
+  -- Create todo list for each of the callers
+  -- Generate Meeting summary and deploy to all callers via email
+  -- Recording Video | Audio | White board
+

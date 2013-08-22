@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @caller.name %>
+</p>
+
+<p>
+  <b>Image url:</b>
+  <%= @caller.image_url %>
+</p>
+
+<p>
+  <b>Token:</b>
+  <%= @caller.token %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @caller.email %>
+</p>
+
+
+<%= link_to 'Edit', edit_caller_path(@caller) %> |
+<%= link_to 'Back', callers_path %>
